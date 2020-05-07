@@ -1,6 +1,6 @@
 # user
 
-A new Flutter project connecting the last webJson project to retrieve data from the web API.
+A new Flutter project connecting the last web project 'relationalDB' to retrieve data from the web API.
 
 Test user:
 Email: doj@gmail.com
